@@ -14,13 +14,13 @@
 #include <stdlib.h>
 
 
-#define NUMBER OF CUSTOMERS 5
-#define NUMBER OF RESOURCES 4
+#define NUMBER_OF_CUSTOMERS 5
+#define NUMBER_OF_RESOURCES 4
 /* the available amount of each resource */
-int available[NUMBER OF RESOURCES];
+int available[NUMBER_OF_RESOURCES];
 /*the maximum demand of each customer */
-int maximum[NUMBER OF CUSTOMERS][NUMBER OF RESOURCES];
+int maximum[NUMBER_OF_CUSTOMERS][NUMBER_OF_RESOURCES];
 /* the amount currently allocated to each customer */
-int allocation[NUMBER OF CUSTOMERS][NUMBER OF RESOURCES];
+int allocation[NUMBER_OF_CUSTOMERS][NUMBER_OF_RESOURCES];
 /* the remaining need of each customer */
-int need[NUMBER OF CUSTOMERS][NUMBER OF RESOURCES];
+int need[NUMBER_OF_CUSTOMERS][NUMBER_OF_RESOURCES];
