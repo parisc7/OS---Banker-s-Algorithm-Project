@@ -1,10 +1,9 @@
 /** \file      Bankers Algorithm.c
-*   \brief     This is a program that implements the Banker's Algorithm
-*   \details   
+*   \brief     This is a program that implements the Banker's Algorithm Deadlock avoidance.
 *   \authors   George Hadjimichel, Paraskevas Costa
 *   \version   1.00
 *   \date      05/2022
-*   \bug       
+*   \bug       no bugs.
 *   \copyright (University of Nicosia)
 */
 
